@@ -1,0 +1,130 @@
+body{
+    margin:0;
+    text-align: center;
+    font-family: 'Merriweather Sans', sans-serif;
+    color:#305f72;
+}
+.top{
+    background-color:#305f72;
+    margin: 0 auto;
+    position: relative;
+    padding-top: 100px;
+}
+.middle{
+    width: 100%;
+    background-color:#f18c8e;
+    padding-top: 50px;
+    padding-bottom: 10px;
+}
+.bottom{
+    width: 100%;
+    background-color:#f0b7a4;
+    padding-top: 50px;
+}
+ h1{
+        margin-top: 0;
+        margin-bottom: 0;
+        font-family: 'Satisfy', cursive;
+        font-size: 5.620rem;
+        color: #f1d1b5;
+    }
+h2{
+    color:#f1d1b5;  
+}
+
+h3{
+    color:#f1d1b5;  
+}
+.subtitle{
+    font-family: 'Montserrat', sans-serif;
+    color: #f1d1b5;
+    margin-top:5px;
+    font-size: 1.5rem;
+    font-weight: normal;
+    line-height: 2;
+}
+
+.bottom-cloud{
+    position: absolute;
+    bottom: 300px;
+    left: 300px;
+    }
+
+.top-cloud{
+    position: absolute;
+    right: 350px;
+    top: 50px;
+    }
+
+.mountain{
+    height:297.297px;
+    width: 498;
+    }
+
+.profilepic{
+    border-radius: 50%;
+    height: 170PX;
+    width: 180px;
+    }
+
+hr{
+    border-color: #fffde8;
+    border-style: dotted none none none;
+    border-width: 5px;
+    width: 5%;
+}
+
+.btn{
+    font-size: 20px;
+    font-family: 'Satisfy', cursive;
+    color: #305f72;
+}
+
+.footer-link{
+    font-size: 10px;
+}
+
+.footerlink-img{
+    height: 30px;
+    width: 30px;
+}
+
+table{
+    text-align:right;
+    display: inline;
+    margin: 0 auto;
+}
+.tablelanguages{
+    text-align: left;
+    display: inline;
+    margin: 0 auto;
+}
+.briefcase{
+    border-radius: 50%;
+    width: 25%;
+    float: left;
+    padding: 30px;
+}
+.computer{
+    border-radius: 50%;
+    width: 25%;
+    float: right;
+    padding: 30px;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+button{
+    border-radius: 20px;
+    box-shadow: 0px 1px 0px 0px #1c1b18;
+    padding: 5px 15px;
+    border-style: none;
+}
+
+button:hover {
+    background-color:wheat;
+}
